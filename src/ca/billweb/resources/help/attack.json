@@ -1,0 +1,7 @@
+{
+  "name": "attack",
+  "category": "game",
+  "args": ["user"],
+  "desc": "Player combat command",
+  "longdesc": "This will select a random attack from the attacking pool and attempt to use it. It requires a used to be mentioned"
+}

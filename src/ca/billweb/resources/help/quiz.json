@@ -1,0 +1,7 @@
+{
+  "name": "quiz",
+  "category": "game",
+  "args": ["category"],
+  "desc": "Guess a presumably weeb thing to make money!",
+  "longdesc": "Specify a category (character, image) and answer the question to earn money! React to the answer you wish to choose."
+}

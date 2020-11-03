@@ -1,0 +1,7 @@
+{
+  "name": "kitsune",
+  "category": "image",
+  "args": [],
+  "desc": "Kitsune image command",
+  "longdesc": "Displays an image of a random kitsune"
+}

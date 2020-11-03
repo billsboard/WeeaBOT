@@ -1,0 +1,7 @@
+{
+  "name": "select",
+  "category": "game",
+  "args": ["slot"],
+  "desc": "Select active character",
+  "longdesc": "This command will select an active character from your inventory. It requires an inventory ID / slot"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "profile",
+  "category": "game",
+  "args": [],
+  "desc": "User profile command",
+  "longdesc": "A user profile is displayed. This may take an optional user parameter"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ping",
+  "category": "other",
+  "args": [],
+  "desc": "Pings the bot",
+  "longdesc": "The bot will respond if it is currently online"
+}

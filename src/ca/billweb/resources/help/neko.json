@@ -1,0 +1,7 @@
+{
+  "name": "neko",
+  "category": "image",
+  "args": [],
+  "desc": "Neko image command",
+  "longdesc": "Displays an image of a random catgirl"
+}

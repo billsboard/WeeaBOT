@@ -1,0 +1,7 @@
+{
+  "name": "crime",
+  "category": "game",
+  "args": [],
+  "desc": "Quick cash command",
+  "longdesc": "This command is a command to earn money. Sometimes it may cause you to lose money as well"
+}

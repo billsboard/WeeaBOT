@@ -1,0 +1,7 @@
+{
+  "name": "help",
+  "category": "other",
+  "args": ["category | usage"],
+  "desc": "Displays the help command",
+  "longdesc": "This command is a table for all the commands. It takes in a parameter for category or a certain command"
+}

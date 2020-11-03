@@ -1,0 +1,7 @@
+{
+  "name": "start",
+  "category": "game",
+  "args": [],
+  "desc": "Starts the WeeaBOT RPG game",
+  "longdesc": "This command is required for the player to being using any of the game commands"
+}

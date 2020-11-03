@@ -1,0 +1,7 @@
+{
+  "name": "char",
+  "category": "game",
+  "args": ["id | name"],
+  "desc": "Returns stats for given character",
+  "longdesc": "This command takes in either a name parameter or a numerical ID. It will return the stat page for that character"
+}
