@@ -485,6 +485,7 @@ public class MessageProcessor {
                             Methods.sendMessage(c, "Category not found!");
                     }
                 }
+                break;
             }
             case "select": case "swap":{
                 Player p = PlayerCache.getPlayer(u.getId().asLong());

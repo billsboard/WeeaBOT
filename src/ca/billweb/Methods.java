@@ -144,7 +144,7 @@ public class Methods {
 
     public static String toMinsSec(long millis){
         millis = Math.abs(millis);
-        return String.format("%d:%d:%d",
+        return String.format("%d:%02d:%02d",
                 TimeUnit.MILLISECONDS.toHours(millis),
                 TimeUnit.MILLISECONDS.toMinutes(millis) - TimeUnit.HOURS.toMinutes(TimeUnit.MILLISECONDS.toHours(millis)),
                 TimeUnit.MILLISECONDS.toSeconds(millis) -
