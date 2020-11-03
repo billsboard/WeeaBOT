@@ -5,6 +5,8 @@ to keep uptime. As a result, I have taken over, and recoded the bot using Java.
 
 Although the language used to program the bot has changed, all the features existing from be the other bot have been preserved.
 
+**I am not a weeb and refuse to become one. Therefore do not complain if some stats or other things are wildly different from what they should be**
+
 #### Features
   * Basic economy system
   * Buy, sell and use your favourite anime characters
